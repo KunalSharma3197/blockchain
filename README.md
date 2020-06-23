@@ -8,7 +8,7 @@ The network follows all the properties of blockchain namely :
 4. Distribute P2P network
 5. Consensus Protocol
 
-The repository contains 3 folders :
+The repository contains 2 folders :
 
 1. blockchain : This folder contains the structure of our blockchain network. Here we have defined a blockchain network which follows the above listed properties.
 2. Cryptocurrency : In this folder we have defined a cryptocurrency kunalcoin which we will transfer over various clients connected accross the networks.
